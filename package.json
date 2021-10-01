@@ -1,0 +1,19 @@
+{
+  "name": "challenge-22",
+  "version": "1.0.0",
+  "description": "e-commerce platform",
+  "main": "x to manage global state instead of the Context API",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewP3/ReduxStore.git"
+  },
+  "author": "Andrew Powell III",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewP3/ReduxStore/issues"
+  },
+  "homepage": "https://github.com/AndrewP3/ReduxStore#readme"
+}
